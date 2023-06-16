@@ -1,3 +1,4 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,6 +6,7 @@
     color: #ffffff; 
 }
 
+/* Body/Header */
 body {
     background-color: #d9dcd6;
 }
@@ -42,6 +44,7 @@ a {
     text-decoration: none;
 }
 
+/* Team Meeting Image */
 .meeting-image {
     height: 800px;
     width: 100%;
@@ -51,10 +54,12 @@ a {
     background-position: center;
 }
 
+/* Main */
 p {
     font-size: 16px;
 }
 
+/* float left and right classses */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -65,6 +70,7 @@ p {
     margin-left: 25px;
 }
 
+/* Content Article */
 .content {
     width: 75%;
     display: inline-block;
@@ -85,6 +91,7 @@ h2{
     font-size: 36px;
 }
 
+/* Benefits Article */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,6 +118,7 @@ h3 {
     max-width: 150px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
