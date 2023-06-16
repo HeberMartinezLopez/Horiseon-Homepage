@@ -8,7 +8,7 @@ This repo contains HTML code and CSS styling code used to complete challenge 01 
  
  ## Usage
  
- ![alt text](127.0.0.1_5500_index.html.png)
+ ![alt text](assets/images/127.0.0.1_5500_index.html.png)
  
  
  ## Credits 
