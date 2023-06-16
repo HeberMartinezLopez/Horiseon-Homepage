@@ -6,11 +6,12 @@
     color: #ffffff; 
 }
 
-/* Body/Header */
+/* Body*/
 body {
     background-color: #d9dcd6;
 }
 
+/* header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -70,7 +71,7 @@ p {
     margin-left: 25px;
 }
 
-/* Content Article */
+/* Article elements*/
 article {
     width: 75%;
     display: inline-block;
@@ -91,7 +92,7 @@ h2{
     font-size: 36px;
 }
 
-/* Benefits Article */
+/* sidebar elements */
 aside {
     margin-right: 20px;
     padding: 20px;
