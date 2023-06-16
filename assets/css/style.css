@@ -15,12 +15,12 @@ header {
     background-color: #2a607c;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -80,7 +80,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
-.content-blue-box h2{
+h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
 }
 
-.benefit-text h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
