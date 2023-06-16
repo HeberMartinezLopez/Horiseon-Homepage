@@ -14,5 +14,5 @@ This repo contains HTML code and CSS styling code used to complete challenge 01 
  ## Credits 
  N/A
  
- #License
+ ## License
  Please refer to the license in the repo. 
